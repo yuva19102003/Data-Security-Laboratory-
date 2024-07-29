@@ -73,3 +73,17 @@ python --version
 ```
 
 This will ensure you are working within a virtual environment that uses Python 3.12.
+
+
+
+Array and string 
+Time and space complexities 
+LinkedIn list and array list
+Stack and queue
+Tree
+Hashing , priority, queue and greedy
+Graph 
+Dynamic programming 
+Backtracking 
+Branch and bound
+Search and sort
