@@ -28,3 +28,5 @@ https://discord.gg/TUCgPX9FAG
 (we are doing 250 days ai engineer challenge)
 
 
+mLOPS workflow and platform 
+https://youtu.be/5BNm6E-Sci4?si=cjYrqnVfnvQ0d7UN
