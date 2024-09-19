@@ -1,3 +1,11 @@
+
+
+HOW TO CRACK series/embedUR
+
+
+https://github.com/JatinKishore/Placement_Preparation/tree/master/HOW%20TO%20CRACK%20series/embedUR
+
+
 PYTHON:
 PYTHON:
 https://www.youtube.com/watch?v=m67-bOpOoPU&t=27814s&pp=ygUVcHl0aG9uIHRhbWlsIHR1dG9yaWFs
